@@ -4,8 +4,8 @@
 
 This  repository contains some starter Computational fluid dynamics codes (CFD) codes in C++. These codes are added to showcase some good functionalities like piping whereby the plotting is directly outputted to GNUplot. 
 
-These codes are more in line with functional programming appraoch and will outut grid data which can then be plotted 
-easily with any utility like matplotlib, matlab, gnuplot etc after the essential modiifications for the particular utility.
+These codes are more in line with functional programming appraoch and will output grid data which can then be plotted 
+easily with any utility like matplotlib, matlab, gnuplot etc. after the essential modiifications for the particular utility.
 
 I had used the piping utility only in hyperbolic equations, just to see how those work back then so feel free to share the codes/use them and improve them. 
 
